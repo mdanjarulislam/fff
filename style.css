@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Nabber Css */
+
+.okay span{
+    color: tomato;
+    padding: 5px;
+}
+.arrow span{
+    color: rgb(24, 199, 230);
+}
+.ok li{
+    padding: 0px 10px;
+
+}
+/* Servics */
+.servics{
+    background: rgb(241, 239, 239);
+}
+
+.servics .servics-left h3{
+    margin-top: 160px;
+    font-size: 23px;
+    margin-bottom: 15px;
+    color: #777;
+
+}
+.servics .servics-left h1{
+    color: rgb(31, 25, 25);
+    font-size: 40px;
+    margin-bottom: 20px;
+
+}
+.servics .servics-left p{
+    font-size: 17px;
+    color: #777;
+}
+.servics .servics-left .button-left {
+    padding: 7px 27px;
+    background: #6f6fce;
+    margin-top: 25px;
+    outline: #777;
+   
+}
+
+
+
+/* About  */
+.about .about-left h3 {
+    font-size: 17px;
+    margin-bottom: 13px;
+    color: #777;
+    margin-top: 45px;
+}
+
+.about .about-left h1 {
+    color: rgb(31, 25, 25);
+    font-size: 31px;
+    margin-bottom: 14px;
+}
+
+
+.about .about-left p{
+    font-size: 17px;
+    color: #777;
+}
+.about .about-left .button-right{
+    padding: 6px 18px;
+    background: #6f6fce;
+    margin-top: 20px;
+    outline: #777;
+}
+/* Chat */
+.chat{
+    background: #6f6fce;
+}
+/* table */
+.table {
+    background: rgb(241, 239, 239);
+}
+.table .table-item .round {
+    height: 75px;
+    width: 75px;
+    background: #ddd;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.table .table-item .round span {
+    margin: auto;
+    display: block;
+    font-size: 25px;
+    line-height: 67px;
+    width: 30px;
+    height: 30px;
+}
+.table .table-item ul{
+
+    list-style: none;
+    padding: 0px;
+}
+
+.table .table-item .one {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.table .table-item .two {
+    font-size: 17px;
+    margin: 2px 0px;
+}
+.table .table-item ul li {
+    margin: 10px 0px;
+    color: #777;
+}
+.table .table-item .touch {
+    padding: 5px 15px;
+    box-shadow: 1px 1px 4px 1px blue;
+    margin-top: 15px;
+}
+.table .table-item {
+    box-shadow: 1px 1px 10px 1px #777;
+    padding: 35px 0px;
+}
+/* temp */
+
+
+.temp .temp-item figure{
+    text-align: left;
+    margin-top: -50px;
+}
+.temp .temp-item img{
+        height: auto;
+        width: 30%;
+        ;
+}
+.temp.temp-item h4 {
+    font-size: 22px;
+    margin-top: -40px;
+}
+.temp.temp-item h5 {
+    font-size: 17px;
+}
+.temp.temp-item p {
+    font-size: 14px;
+    margin-top: 25px;
+}
+
+.temp .temp-item .stop {
+    box-shadow: 1px 1px 6px 1px blue;
+    padding: 5px 15px;
+    margin-top: 5px;
+}
+.temp .temp-item {
+    box-shadow: 1px 1px 6px 1px #777;
+    padding: 20px 0px;
+}
+/* contact */
+.contact{
+    background: #ddd;
+}
+.contact .click {
+    width: 20%;
+    margin: auto;
+    margin-top: 5px;
+}
+.contact-left {
+    box-shadow: 1px 1px 10px 1px #777;
+    background: #fff !important;
+}
+.contact-right{
+    margin-top: 55px;
+}
+.contact-right h4 {
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+.contact-right h6 {
+    margin-bottom: 20px;
+}
+.contact-right h6 {
+    margin-bottom: 20px;
+}
+/* footer */
+.footer p{
+    line-height: 38px;
+}
